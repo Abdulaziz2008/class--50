@@ -1,0 +1,38 @@
+
+h1{
+    color:black
+}
+
+    
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-evenly;
+}           
+.menu{
+background-color: burlywood;
+display: flex;
+justify-content: space-around;
+}
+.games{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+}
+.game1{
+background-color:rgb(13, 196, 156);
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.socialmedia{
+background-color: darksalmon;
+display: flex;
+justify-content: flex-end;
+}
+h2,p{
+text-align: center;
+
+
+}
